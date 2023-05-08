@@ -1,0 +1,13 @@
+.links-login {
+    color: "#33444a";
+    font-size: .8em;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+}
+
+.links-login:hover {
+    color: crimson!important;
+    text-decoration: underline;
+}
